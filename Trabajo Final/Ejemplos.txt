@@ -1,0 +1,2 @@
+R: https://rstudio-pubs-static.s3.amazonaws.com/279500_57cad8c546724b40ad3e90692f716ae4.html
+python: https://www.kaggle.com/code/jake126/face-detection-using-cnn-with-the-lfw-dataset
